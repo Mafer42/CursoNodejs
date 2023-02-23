@@ -1,0 +1,12 @@
+
+Forma 1
+
+npm install express
+npm uninstall express- esto es para desintalar los paquetes
+
+Forma 2
+
+npm install express@4.15.1- especificamos la version que queremos agregar
+
+Forma 3
+npm install express --save-dev (se descargan las dependencias para desarrolladores)
