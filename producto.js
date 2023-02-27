@@ -1,4 +1,4 @@
-//ENCADENAMIENTO DE PROMESAS EN NODE.JS Y ASYNC AWAIT
+//ENCADENAMIENTO DE PROMESAS EN NODE.JS CON ASYNC AWAIT
 
 function ordenarProducto(producto){
     return new Promise((resolve, reject) =>{
