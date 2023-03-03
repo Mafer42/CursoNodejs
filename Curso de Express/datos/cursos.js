@@ -19,7 +19,7 @@ let infoCursos = {
         titulo: 'Aprende JavaScript',
         lenguaje: 'javaScript',
         vistas: 102223,
-        nivel: 'basico',
+        nivel: 'basico'
       }
     ],
     'matematicas':[
@@ -35,7 +35,7 @@ let infoCursos = {
         titulo: 'Aprende Algebra',
         tema: 'algebra',
         vistas: 15722,
-        nivel: 'intermedio',
+        nivel: 'intermedio'
       }
     ]
   }
